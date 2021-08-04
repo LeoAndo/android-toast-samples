@@ -2,6 +2,8 @@
 
 This is a project for investigating the Toast API.
 
+[日本語版_README]()
+
 
 # Conclusion (alternative)
 Toast uses a Only  [makeText](https://developer.android.com/reference/kotlin/android/widget/Toast?hl=ja#maketext).<br>
