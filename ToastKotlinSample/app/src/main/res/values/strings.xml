@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ToastKotlinSample</string>
+    <string name="button_show_toast_message">showToastMessage</string>
+    <string name="button_show_custom_toast">showCustomToast</string>
+    <string name="button_show_snack_bar">showSnackBar</string>
+</resources>
