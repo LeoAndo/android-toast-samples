@@ -4,6 +4,8 @@ This is a project for investigating the Toast API.
 
 [日本語版_README](https://github.com/LeoAndo/android-toast-samples/blob/main/readme/README_JP.md)
 
+# development enveroment
+<img width="686" alt="127751156-0638bd97-e532-43e9-be12-e758a7118141" src="https://user-images.githubusercontent.com/16476224/128230885-30d23c7f-5714-4590-9592-ec3f733b39e0.png">
 
 # Conclusion (alternative)
 Toast uses a Only  [makeText](https://developer.android.com/reference/kotlin/android/widget/Toast?hl=ja#maketext).<br>
