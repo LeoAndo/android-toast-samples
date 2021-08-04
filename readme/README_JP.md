@@ -1,6 +1,9 @@
 # プロジェクト概要
 Toast APIを調査するためのプロジェクトです。
 
+# 開発環境
+<img width="686" alt="127751156-0638bd97-e532-43e9-be12-e758a7118141" src="https://user-images.githubusercontent.com/16476224/128230885-30d23c7f-5714-4590-9592-ec3f733b39e0.png">
+
 # 結論 (代替案)
 
 Toastは[makeText](https://developer.android.com/reference/kotlin/android/widget/Toast?hl=ja#maketext) で作成するテキスト トーストを使うか、
