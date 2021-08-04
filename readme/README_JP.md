@@ -1,3 +1,6 @@
+# プロジェクト概要
+Toast APIを調査するためのプロジェクトです。
+
 # 結論 (代替案)
 
 Toastは[makeText](https://developer.android.com/reference/kotlin/android/widget/Toast?hl=ja#maketext) で作成するテキスト トーストを使うか、
@@ -24,5 +27,7 @@ Android 11をターゲット & OS11以降の端末の場合、テキスト　ト
 |:---|:---:|
 | <img src="https://user-images.githubusercontent.com/16476224/117284945-5f325080-aea2-11eb-8278-c68feb8765a6.gif" width=320 /> | <img src="https://user-images.githubusercontent.com/16476224/117284926-58a3d900-aea2-11eb-9179-1294d8b03caf.gif" width=320 /> |
 
-# For Java
-https://github.com/LeoAndo/ToastJavaSample
+# For Java code
+https://github.com/LeoAndo/android-toast-samples/tree/main/ToastJavaSample
+# For Kotlin code
+https://github.com/LeoAndo/android-toast-samples/tree/main/ToastKotlinSample
