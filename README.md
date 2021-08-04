@@ -2,7 +2,7 @@
 
 This is a project for investigating the Toast API.
 
-[日本語版_README]()
+[日本語版_README](https://github.com/LeoAndo/android-toast-samples/blob/main/readme/README_JP.md)
 
 
 # Conclusion (alternative)
