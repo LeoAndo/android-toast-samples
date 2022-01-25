@@ -22,13 +22,24 @@ or Use [Snackbar](https://developer.android.com/reference/com/google/android/mat
 - Limited the number of Toasts that can be displayed.
   -  https://youtu.be/D2cU_itNDAI?t=727
 
-# Capture
+# Capture (Android View)
 
 | Pixel 4 OS10 | Pixel 4 OS11 |
 |:---|:---:|
 | <img src="https://user-images.githubusercontent.com/16476224/117284945-5f325080-aea2-11eb-8278-c68feb8765a6.gif" width=320 /> | <img src="https://user-images.githubusercontent.com/16476224/117284926-58a3d900-aea2-11eb-9179-1294d8b03caf.gif" width=320 /> |
 
-# For Java code
-https://github.com/LeoAndo/android-toast-samples/tree/main/ToastJavaSample
+# Capture (Compose)
+
+| Pixel 4 OS: 8 | Pixel 4 OS: 12 |
+|:---|:---:|
+| <img src="https://user-images.githubusercontent.com/16476224/151012930-1a1b1253-a715-4a35-abee-cc08a73c9b8a.gif" width=320 /> | <img src="https://user-images.githubusercontent.com/16476224/151012648-6a99b81d-0cd2-4bf4-9d6c-b05ab34a4ad6.gif" width=320 /> |
+
+# For Compose
+https://github.com/LeoAndo/android-toast-samples/tree/main/ToastComposeSample
+
 # For Kotlin code
 https://github.com/LeoAndo/android-toast-samples/tree/main/ToastKotlinSample
+
+# For Java code
+https://github.com/LeoAndo/android-toast-samples/tree/main/ToastJavaSample
+
