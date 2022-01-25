@@ -24,13 +24,23 @@ Android 11をターゲット & OS11以降の端末の場合、テキスト　ト
 - Toastの表示数に制限をかけた。 <br>理由としては今までは、Toastが重なって例えば50件連続で表示してしまった場合、<br>現在表示中のToast表示が終了するまで次のToastは待たないといけなく、画面上にToastが留まって見えるのでユーザー操作の邪魔になっていた。<br>
   -  https://youtu.be/D2cU_itNDAI?t=727
 
-# キャプチャ
+# Capture (Android View)
 
 | Pixel 4 OS10 | Pixel 4 OS11 |
 |:---|:---:|
 | <img src="https://user-images.githubusercontent.com/16476224/117284945-5f325080-aea2-11eb-8278-c68feb8765a6.gif" width=320 /> | <img src="https://user-images.githubusercontent.com/16476224/117284926-58a3d900-aea2-11eb-9179-1294d8b03caf.gif" width=320 /> |
 
-# For Java code
-https://github.com/LeoAndo/android-toast-samples/tree/main/ToastJavaSample
+# Capture (Compose)
+
+| Pixel 4 OS: 8 | Pixel 4 OS: 12 |
+|:---|:---:|
+| <img src="https://user-images.githubusercontent.com/16476224/151012930-1a1b1253-a715-4a35-abee-cc08a73c9b8a.gif" width=320 /> | <img src="https://user-images.githubusercontent.com/16476224/151012648-6a99b81d-0cd2-4bf4-9d6c-b05ab34a4ad6.gif" width=320 /> |
+
+# For Compose
+https://github.com/LeoAndo/android-toast-samples/tree/main/ToastComposeSample
+
 # For Kotlin code
 https://github.com/LeoAndo/android-toast-samples/tree/main/ToastKotlinSample
+
+# For Java code
+https://github.com/LeoAndo/android-toast-samples/tree/main/ToastJavaSample
